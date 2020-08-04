@@ -1,4 +1,3 @@
-# PIZZA---SHOP-
 # Pizza-SHOP
 
 Um site criado com fins de estudo. O princiapl objetivo é aprender desenvolver websites mais responsivos e profissionais sem o uso de frameworks externos como Bootstrap, bulma, etc.. 
